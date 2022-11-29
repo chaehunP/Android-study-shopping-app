@@ -42,7 +42,7 @@
             android:paddingTop="4dp"
             android:paddingEnd="8dp"
             android:paddingBottom="4dp"
-
+            isVisible="@{category.updated}"
             android:text="@string/label_category_new"
             app:layout_constraintStart_toStartOf="@id/iv_category_thumbnail"
             app:layout_constraintTop_toTopOf="@id/iv_category_thumbnail" />
@@ -56,6 +56,7 @@
             android:maxLines="1"
             android:paddingStart="10dp"
             android:paddingEnd="10dp"
+            android:text="@{category.label}"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
