@@ -21,7 +21,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 app:contentInsetStartWithNavigation="0dp"
-                app:layout_scrollFlags="scroll||enterAlways"
+                app:layout_scrollFlags="scroll|enterAlways"
                 app:navigationIcon="@drawable/ic_gnb_back"
                 app:titleTextAppearance="@style/TextMedium.Bold"
                 tools:title="여성패션" />
