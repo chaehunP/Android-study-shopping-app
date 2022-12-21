@@ -4,7 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
+        <variable
+            name="clickListener"
+            type="com.shoppi.app.ui.common.ProductClickListener" />
         <variable
             name="product"
             type="com.shoppi.app.model.Product" />
@@ -17,6 +19,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginTop="8dp"
         android:layout_marginBottom="8dp"
+        android:onClick="@{() -> clickListener.onProductClick(product.productId)}"
         app:cardCornerRadius="12dp">
 
         <androidx.constraintlayout.widget.ConstraintLayout
@@ -84,7 +87,6 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintTop_toBottomOf="@id/tv_promotion_original_price"
                 tools:text="스피커" />
-
 
         </androidx.constraintlayout.widget.ConstraintLayout>
 
