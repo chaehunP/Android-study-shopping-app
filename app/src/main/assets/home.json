@@ -16,7 +16,7 @@
         "label": "캐시미어 100% 터틀넥 스웨터",
         "discount_rate": 9,
         "price": 102000,
-        "thumbnail_image_uri": "https://user-images.githubusercontent.com/95847909/199189263-c5831d58-fa6c-494e-88e6-d4f7e2baa5d2.png",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/95847909/199189263-c5831d58-fa6c-494e-88e6-d4f7e2baa5d2.png",
         "product_id": "FW-twg-sweater-1"
       }
     },
@@ -32,7 +32,7 @@
         "label": "슬림 데스크 800",
         "discount_rate": 16,
         "price": 160000,
-        "thumbnail_image_uri": "https://user-images.githubusercontent.com/95847909/199189259-207edc02-3963-4c14-b8f5-13e1fc9107da.png",
+        "thumbnail_image_url": "https://user-images.githubusercontent.com/95847909/199189259-207edc02-3963-4c14-b8f5-13e1fc9107da.png",
         "product_id": "desk-1"
       }
     }

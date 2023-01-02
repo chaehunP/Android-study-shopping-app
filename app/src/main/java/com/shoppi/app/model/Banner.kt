@@ -20,7 +20,7 @@ data class Product(
     val label: String,
     @SerializedName("discount_rate") val discountRate: Int,
     val price: Int,
-    @SerializedName("thumbnail_image_uri") val thumbnailImageUri: String?,
+    @SerializedName("thumbnail_image_url") val thumbnailImageUrl: String?,
     @SerializedName("representative_image_url") val representativeImageUrl: String?,
     @SerializedName("product_id") val productId: String
 )

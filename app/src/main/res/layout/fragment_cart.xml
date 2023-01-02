@@ -21,7 +21,7 @@
                 android:id="@+id/toolbar_cart"
                 android:layout_width="match_parent"
                 android:layout_height="100dp"
-                app:layout_scrollFlags="scroll||enterAlways"
+                app:layout_scrollFlags="scroll|enterAlways"
                 app:title="@string/label_cart"
                 app:titleTextAppearance="@style/TextHeadline5.Black02.Bold" />
 

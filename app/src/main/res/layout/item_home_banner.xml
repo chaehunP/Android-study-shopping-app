@@ -86,7 +86,7 @@
 
         <com.google.android.material.imageview.ShapeableImageView
             android:id="@+id/iv_banner_detail_thumbnail"
-            imageUrl="@{banner.productDetail.thumbnailImageUri}"
+            imageUrl="@{banner.productDetail.thumbnailImageUrl}"
             android:layout_width="50dp"
             android:layout_height="50dp"
             android:layout_marginStart="12dp"

@@ -34,9 +34,8 @@ class CartFragment: Fragment() {
     private fun setListAdapter() {
         val cartAdapter = CartAdapter()
         binding.rvCartItem.adapter = cartAdapter
-        viewModel.item.observe(viewLifecycleOwner) { cartItems ->
+        viewModel.items.observe(viewLifecycleOwner) { cartItems ->
             cartAdapter.submitHeaderAndItemList(cartItems)
-
         }
     }
 }
