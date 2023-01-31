@@ -1,9 +1,9 @@
 # Android Studio를 사용하여 Kotlin을 기반으로 만든 쇼핑앱
 
-사용 언어:  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>  
-사용 환경:  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>  
-사용 기술:  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  
-사용 라이브러리:  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=white"/>
+**사용 언어**:  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/>  
+**사용 환경**:  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>  
+**사용 기술**:  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  
+**사용 라이브러리**:  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=white"/>
 <br></br>
 ### udemy의 안드로이드 앱개발 부트캠프 강의를 들으며 만든 shopping 앱니다.
 
