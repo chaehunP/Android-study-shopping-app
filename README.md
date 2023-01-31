@@ -27,15 +27,23 @@ App Architecture Guide에 따라 프로젝트를 구성하면 어떤 장점이 �
 
 <br></br>
 
-|앱 동작 사진|
-|----|
-|<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723226-6636edd3-4477-4ce5-9ae4-d0325e9cf9e1.jpg"/>|
-<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723236-1c5da8c1-6436-44de-9540-6e8675ffcd5e.jpg"/>|
-<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723245-f8803586-6e04-45bb-8c87-797706d7ec7a.jpg"/>|
+---
+<div align="center">
+|<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723226-6636edd3-4477-4ce5-9ae4-d0325e9cf9e1.jpg"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723236-1c5da8c1-6436-44de-9540-6e8675ffcd5e.jpg"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723245-f8803586-6e04-45bb-8c87-797706d7ec7a.jpg"/>
 <img width="25%" src="https://user-images.githubusercontent.com/95847909/215723247-ca199c6e-6ea2-4539-b336-46832270fbfc.jpg"/>
 <img width="25%" src="https://user-images.githubusercontent.com/95847909/215723252-680ae889-6279-4ae4-b0ed-36bf3dc2be79.jpg"/>
-<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723254-4d126ead-f065-46d1-ae2c-b1c5f681a21f.jpg"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723254-4d126ead-f065-46d1-ae2c-b1c5f681a21f.jpg"/
+</div>
+  
+---
 
-<br></br>
+<div align="center">
+|<img width="40%" src="https://user-images.githubusercontent.com/95847909/215741478-f34a2333-9d93-4702-8407-b6ea2db5ad0b.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/95847909/215741483-f07eb7aa-9d37-415f-a066-97c5d1bc1275.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/95847909/215741487-e6e3ddbe-5dbf-4456-8626-5e90afde1f9f.png"/>
+<img width="40%" src="https://user-images.githubusercontent.com/95847909/215741492-f696b952-b9db-448c-bdaf-983981d58cd9.png"/>
+</div>
 
-ㅁㄴㅇ
+
