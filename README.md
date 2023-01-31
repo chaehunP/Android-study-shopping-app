@@ -5,7 +5,7 @@
 **사용 기술**:  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  
 **사용 라이브러리**:  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=white"/>
 <br></br>
-### udemy의 안드로이드 앱개발 부트캠프 강의를 들으며 만든 shopping 앱니다.
+### udemy의 안드로이드 앱개발 부트캠프 강의를 들으며 만든 shopping 앱 입니다.
 
 >**사용한 Jetpack 라이브러리: navigation, viewpager2, databinding, Room**   
 * Fragment 간 화면 이동을 **navigation** 라이브러리를 사용하여 구현해 보았습니다.  
