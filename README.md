@@ -5,7 +5,7 @@
 사용 기술:  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>  
 사용 라이브러리:  <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=flat&logo=Jetpack Compose&logoColor=white"/>
 <br></br>
-### udemy의 안드로이드 앱개발 부트캠프 강의를 들으며 kotlin 언어를 사용하여 만든 shopping 앱니다.
+### udemy의 안드로이드 앱개발 부트캠프 강의를 들으며 만든 shopping 앱니다.
 
 >**사용한 Jetpack 라이브러리: navigation, viewpager2, databinding, Room**   
 * Fragment 간 화면 이동을 **navigation** 라이브러리를 사용하여 구현해 보았습니다.  
@@ -27,7 +27,15 @@ App Architecture Guide에 따라 프로젝트를 구성하면 어떤 장점이 �
 
 <br></br>
 
-<img width="40%" src="https://user-images.githubusercontent.com/95847909/215701126-71000459-ee16-4e10-9b97-01ecf3a9dfe7.png"/>
-<img width="50%" src="https://user-images.githubusercontent.com/95847909/215701129-b39c2d12-e25b-4863-8d75-ec8eb2643a02.png"/>
-<img width="50%" src="https://user-images.githubusercontent.com/95847909/215701132-be85d66e-569b-49d6-a32a-26375413a9a9.png"/>
-<img width="50%" src="https://user-images.githubusercontent.com/95847909/215701136-1d13a6fe-a982-4ee1-8d2c-d7287913a454.png"/>
+|앱 동작 사진|
+|----|
+|<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723226-6636edd3-4477-4ce5-9ae4-d0325e9cf9e1.jpg"/>|
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723236-1c5da8c1-6436-44de-9540-6e8675ffcd5e.jpg"/>|
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723245-f8803586-6e04-45bb-8c87-797706d7ec7a.jpg"/>|
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723247-ca199c6e-6ea2-4539-b336-46832270fbfc.jpg"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723252-680ae889-6279-4ae4-b0ed-36bf3dc2be79.jpg"/>
+<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723254-4d126ead-f065-46d1-ae2c-b1c5f681a21f.jpg"/>
+
+<br></br>
+
+ㅁㄴㅇ
