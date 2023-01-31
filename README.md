@@ -30,7 +30,9 @@
 저만의 바이블을 만들게 되었습니다.**  
 
 <br></br>
+
 ---
+
 <div align="center">
 |<img width="25%" src="https://user-images.githubusercontent.com/95847909/215723226-6636edd3-4477-4ce5-9ae4-d0325e9cf9e1.jpg"/>
 <img width="25%" src="https://user-images.githubusercontent.com/95847909/215723236-1c5da8c1-6436-44de-9540-6e8675ffcd5e.jpg"/>
